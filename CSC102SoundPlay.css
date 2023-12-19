@@ -1,0 +1,14 @@
+/* Scott A. Daulbaugh */
+body
+{
+    /* background-color: crimson; */
+    background-image: radial-gradient(red, white);
+    background-repeat: no-repeat ;
+}
+button
+{
+    color:darkgoldenrod; 
+    border-color: black;
+    border-width: 10px;
+    border-radius: 5px;
+}
